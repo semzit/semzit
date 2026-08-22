@@ -2,7 +2,7 @@
 Computer Science & Physics student at UW-Madison (Junior)
 
 - SWE Experience
-  - Summer 2026: Rollstack
+  - Summer 2026: Rollstack (YC W23)
   - Summer 2025: MarketLeap
   - Fall/Spring 2025/2026 : UW Plasma Group
 
